@@ -259,16 +259,6 @@ Use tools like Postman or Insomnia to test the API endpoints:
    GET http://localhost:8080/shorturls/github
    ```
 
-## 🚧 Development Guidelines
-
-### Code Standards
-- Use ES6+ features
-- Follow REST API conventions
-- Implement proper error handling
-- Add comprehensive logging
-- Use descriptive variable names
-- Include JSDoc comments for functions
-
 ### Git Workflow
 - Commit frequently with descriptive messages
 - Use feature branches for development
@@ -284,8 +274,6 @@ This project is developed for the Campus Hiring Evaluation and contains confiden
 For any issues or questions during the evaluation:
 1. Check the individual README files in each component folder
 2. Review the API documentation above
-3. Examine the log files for debugging information
-4. Test individual components separately
 
 ---
 
