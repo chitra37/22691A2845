@@ -30,7 +30,7 @@ A comprehensive full-stack URL shortener application built for the Campus Hiring
 └── README.md                 # This file
 ```
 
-## ✨ Features
+##  Features
 
 ### Core Functionality
 - **URL Shortening**: Convert long URLs into short, manageable links
