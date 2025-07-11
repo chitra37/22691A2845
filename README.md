@@ -2,7 +2,7 @@
 
 A comprehensive full-stack URL shortener application built for the Campus Hiring Evaluation. This project demonstrates a robust microservice architecture with a React frontend, Node.js/Express.js backend, and custom logging middleware.
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 22691A2845/
