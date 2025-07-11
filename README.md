@@ -66,7 +66,7 @@ A comprehensive full-stack URL shortener application built for the Campus Hiring
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd 22691A28451
+   cd 22691A2845
    ```
 
 2. **Install Logging Middleware**
